@@ -1,15 +1,18 @@
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/cassia18ma">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassia18ma&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  </a>
+
+<!-- Gráfico de linguagens (top langs) -->
+<div align="center" style="margin-top: 18px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassia18ma&layout=compact&theme=synthwave" alt="Top Languages" />
 </div>
 
-<!-- Linguagens -->
-<div align="center" style="display: inline_block; margin-top: 20px;">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<!-- Linguagens (ícones) -->
+<div align="center" style="display: inline-block; margin-top: 20px;">
+  <img align="center" alt="JavaScript" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!-- Adicione outras linguagens/ícones que usa -->
 </div>
 
 <!-- Conecte-se comigo -->
@@ -25,4 +28,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
