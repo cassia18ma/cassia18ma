@@ -18,16 +18,6 @@
 
 ---
 
-## 📊 Linguagens mais usadas
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassia18ma&layout=compact&theme=tokyonight"
-    alt="Top Langs"
-  />
-</div>
-
----
 
 ## 🌐 Conecte-se comigo
 
